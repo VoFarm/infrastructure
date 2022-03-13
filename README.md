@@ -19,3 +19,9 @@ Wir lassen den backend (trading-actor) zunächst z.B. eine Woche auf dem Testnet
 Option 2:   
 Wir deployen Änderungen direkt auf Arbitrum (nicht erst Testnet Arbitrum)    
 
+## Healthchecks
+```sh 
+
+du -h
+
+```
